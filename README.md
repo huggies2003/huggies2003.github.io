@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/github/followers/chatgpt-user?style=social)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/ChatGPT_User?label=Follow&style=social)](https://twitter.com/ChatGPT_User)
+
+
 สวัสดีครับ! ยินดีที่ได้รู้จัก 😊
 
 
