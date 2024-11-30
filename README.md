@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/followers/chatgpt-user?style=social)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/ChatGPT_User?label=Follow&style=social)](https://twitter.com/ChatGPT_User)
-![] (huggies2003.github.io/img)
+![IMG_0327.jpeg](huggies2003.github.io/IMG_0327.jpeg)
 สวัสดีครับ! ยินดีที่ได้รู้จัก 😊
 
 
