@@ -4,6 +4,10 @@
 
 | **Source** | **Explanation** |
 |------------|-----------------|
+| **definition** | A device that channels incoming data from any of multiple input ports to the specific output port that will take the data toward its intended destination. |
+
+| **Source** | **Explanation** |
+|------------|-----------------|
 | **ChatGPT** | ทำงานที่ชั้นที่ 2 (Layer 2) สวิตช์จะสร้างโดเมนการชน (collision domain) ต่อแต่ละพอร์ต |
 
 
@@ -12,6 +16,10 @@
 | **Gemini**  | สวิตช์ทำงานที่ระดับ Data Link Layer (ชั้น 2) ซึ่งเป็นชั้นที่ดูแลการเชื่อมต่อระหว่างอุปกรณ์ในเครือข่าย โดยสวิตช์จะแบ่งการทำงานเป็นส่วนๆ โดยแต่ละพอร์ตจะเป็นส่วนหนึ่งที่เรียกว่า Collision Domain ทำให้การส่งข้อมูลในแต่ละพอร์ตไม่ไปรบกวนกัน |
 
 ## 2nd Source Gartner
+
+| **Source** | **Explanation** |
+|------------|-----------------|
+| **definition** | A device that makes, breaks, or changes the connections in an electrical circuit; to shift to another electrical circuit by means of a switch. In the telecommunications industry, the term is often used as a synonym for private branch exchange (PBX) or central office (CO) switch.  |
 
 | **Source** | **Explanation** |
 |------------|-----------------|
