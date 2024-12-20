@@ -1,6 +1,6 @@
 # Merry Christmas And Happy New Year
 
-![Christmas](profile/Christmas.png)
+![Christmas](Picture/download.png)
 
 Celebrate the joy of Christmas with us!
 
