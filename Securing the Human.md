@@ -35,5 +35,6 @@
 ## **👥 สมาชิกในกลุ่ม Seksan-Salahsakul**  
 1. 🌟 **Tante Wanitchakorn** →  
 2. 🌟 **Poramet Obyam** →  
-3. 🌟 **Vorapol Boonrasri** →  [Github Page](https://Vorxp.github.io/boardgame)
-4. 🌟 **Wasawat Boonporn** →
+3. 🌟 Vorapol Boonrasri → Github Page
+✨ Wasawat Boonporn → Github Page
+4. 🌟 **Was
